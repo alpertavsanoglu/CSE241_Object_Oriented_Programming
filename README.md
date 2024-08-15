@@ -1,2 +1,2 @@
 # CSE241 Object Oriented Programming
-C++
+C++ OOP

@@ -1,2 +1,2 @@
-# CSE241_Object_Oriented_Programming_C-
+# CSE241_Object_Oriented_Programming_C++
 C++ OOP
